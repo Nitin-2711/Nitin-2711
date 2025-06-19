@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin-2711" alt="nitin-2711" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://nitin27.netlify.app/](https://nitin27.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://nitinappdev.com)
 
 - 💬 Ask me about **Android Studio, Java, Firebase, React, Git**
 
