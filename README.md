@@ -55,7 +55,7 @@
 ### ⚙️ Backend Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="background-color: white; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
@@ -81,21 +81,27 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=nitin-2711&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Nitin's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-2711&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 
-</div>
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-2711&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nitin-2711&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="Nitin's GitHub Stats" />
 
-</div>
+</td>
+<td width="50%">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-2711&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=nitin-2711&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-2711&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="90%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nitin-2711&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" width="90%" />
 
 </div>
 
@@ -104,8 +110,12 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  
-![Snake animation](https://github.com/nitin-2711/nitin-2711/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitin-2711/nitin-2711/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitin-2711/nitin-2711/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitin-2711/nitin-2711/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -141,11 +151,21 @@
 
 ---
 
-## 💭 Quote of the Day
+## 💭 Random Dev Quote
 
 <div align="center">
-  
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin-2711&theme=react-dark&hide_border=true&area=true" width="90%" alt="Activity Graph">
 
 </div>
 
@@ -153,9 +173,9 @@
 
 <div align="center">
   
-### 💻 "Code is like humor. When you have to explain it, it's bad!" 😄
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+### 💻 "Code is like humor. When you have to explain it, it's bad!" 😄
 
 **⭐ If you like my work, don't forget to star my repositories!**
 
