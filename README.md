@@ -16,6 +16,7 @@
 
 🎓 **Master's Student** in Computer Applications  
 🔥 **Mobile & Web** application architect
+
 💼 **Full-Stack Developer** with passion for innovation    
 🌱 Currently mastering **Advanced React & Kotlin**  
 💡 Love creating **user-centric solutions**  
