@@ -17,8 +17,8 @@
 🎓 **Master's Student** in Computer Applications.  
 🔥 **Mobile & Web** application architect.
 💼 **Full-Stack Developer** with passion for innovation.    
-🌱 Currently mastering **Advanced React & Kotlin**.
-💡 Love creating **user-centric solutions**.
+🌱 **Currently mastering **Advanced React & Kotlin**.
+💡 **Love creating **user-centric solutions**.
 ⚡ Fun fact: **Love teasing people around me!**.
 📧 **Email:** 2711nitinkumar@gmail.com  
 🌐 **Portfolio:** [nitinappdev.com](https://nitinappdev.com)  
