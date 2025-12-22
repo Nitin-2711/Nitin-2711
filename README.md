@@ -1,187 +1,284 @@
 <div align="center">
 
-![Coding GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+```
+███╗   ██╗██╗████████╗██╗███╗   ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
+████╗  ██║██║╚══██╔══╝██║████╗  ██║    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+██╔██╗ ██║██║   ██║   ██║██╔██╗ ██║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+██║╚██╗██║██║   ██║   ██║██║╚██╗██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║ ╚████║██║   ██║   ██║██║ ╚████║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-# 👋 Hello, I'm Nitin Kumar
+### 『 Full-Stack Developer • Master's in Computer Applications • Code Architect 』
 
-### 💻 App & Web Developer | 🎓 Master's Student in Computer Applications
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/27nitinkumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://nitinappdev.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2711nitinkumar@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1cBID635DdGZrdGLDPeD5Gqt9BqC2z2vk/edit?usp=drive_link&ouid=115725528369351112467&rtpof=true&sd=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nitin-2711&label=Profile%20views&color=0e75b6&style=for-the-badge)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Android+%26+Web+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things;React+%7C+Java+%7C+Firebase+Expert)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=nitin-2711&label=LEVEL&color=00D9FF&style=flat-square&abbreviated=true)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎮 PLAYER STATS
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 Currently working on **Mobile & Web Applications**
-- 🌱 Learning **Advanced React & Kotlin**
-- 👨‍💻 All projects: [**nitinappdev.com**](https://nitinappdev.com)
-- 💬 Ask me about **Android Studio, Java, Firebase, React, Git**
-- 📫 Email: **2711nitinkumar@gmail.com**
-- ⚡ Fun fact: **Love Teasing People Around Me!**
-
-<br clear="right"/>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
-  </a>
-</p>
+```javascript
+const developer = {
+    username: "Nitin Kumar",
+    class: "Full-Stack Developer",
+    level: "Master's Student",
+    currentQuest: "Building next-gen mobile & web applications",
+    
+    skills: {
+        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind", "Bootstrap"],
+        mobile: ["Android", "Kotlin", "Java", "Dart", "Swift"],
+        backend: ["Node.js", "Express", "Firebase"],
+        database: ["MongoDB", "MySQL", "SQLite", "Oracle", "MSSQL"],
+        tools: ["Git", "Figma", "Photoshop"],
+        languages: ["Java", "JavaScript", "Python", "C", "C++", "Kotlin", "Swift"]
+    },
+    
+    achievements: [
+        "🏆 Mobile Application Specialist",
+        "🏆 Full-Stack Web Developer",
+        "🏆 Firebase Integration Expert",
+        "🏆 UI/UX Enthusiast"
+    ],
+    
+    currentlyLearning: ["Advanced React Patterns", "Kotlin Multiplatform"],
+    openToCollaborate: true,
+    
+    contact: {
+        email: "2711nitinkumar@gmail.com",
+        portfolio: "nitinappdev.com",
+        availability: "Open for opportunities"
+    }
+};
+```
 
 ---
 
-## 📊 GitHub Statistics
+## ⚔️ COMBAT SKILLS
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitin-2711&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-2711&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-2711&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-</p>
+### 🎯 Primary Weapons
+```yaml
+Mobile Development:
+  ▰▰▰▰▰▰▰▰▰▱ 90%
+  
+Web Development:
+  ▰▰▰▰▰▰▰▰▱▱ 85%
+  
+Backend Services:
+  ▰▰▰▰▰▰▰▱▱▱ 75%
+  
+Database Management:
+  ▰▰▰▰▰▰▰▰▱▱ 80%
+```
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitin-2711&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🛡️ Special Abilities
+```yaml
+Problem Solving:
+  ▰▰▰▰▰▰▰▰▰▱ 95%
+  
+Team Collaboration:
+  ▰▰▰▰▰▰▰▰▱▱ 88%
+  
+Quick Learning:
+  ▰▰▰▰▰▰▰▰▰▱ 92%
+  
+Code Optimization:
+  ▰▰▰▰▰▰▰▱▱▱ 80%
+```
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin-2711&theme=react-dark&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/27nitinkumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:2711nitinkumar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://nitinappdev.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.hackerrank.com/@2711nitinkumar" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/@2711nitinkumar" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://docs.google.com/document/d/1cBID635DdGZrdGLDPeD5Gqt9BqC2z2vk/edit?usp=drive_link&ouid=115725528369351112467&rtpof=true&sd=true" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💭 Random Dev Quote
+## 🗡️ ARSENAL - TECH STACK
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+<div align="center">
+
+### ⚡ Primary Tech
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48" alt="Android" />
+<br>Android
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="48" height="48" alt="Kotlin" />
+<br>Kotlin
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+</tr>
+</table>
+
+### 🔧 Secondary Tech
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48" height="48" alt="Dart" />
+<br>Dart
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" />
+<br>Swift
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
-</p>
+## 📊 PERFORMANCE METRICS
 
-<h3 align="center">💻 "Code is like humor. When you have to explain it, it's bad!" 😄</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> 
-  <br>
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitin-2711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-2711&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 
-<h3 align="center">⭐ If you like my work, don't forget to star my repositories! ⭐</h3>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin-2711&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitin-2711&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENT UNLOCKED
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nitin-2711&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest)
+
+</div>
+
+---
+
+## 💼 CURRENT MISSIONS
+
+```diff
++ 🎯 Developing innovative mobile applications with advanced features
++ 🎯 Building scalable full-stack web solutions
++ 🎯 Mastering advanced React patterns and Kotlin development
++ 🎯 Contributing to open-source projects
++ 🎯 Exploring cloud technologies and microservices architecture
+
+! 📫 Open for collaboration on interesting projects
+! 💡 Always eager to learn new technologies and best practices
+```
+
+---
+
+## 🌐 CONNECT & COLLABORATE
+
+<div align="center">
+
+### Let's Build Something Amazing Together
+
+<a href="https://linkedin.com/in/27nitinkumar">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:2711nitinkumar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://nitinappdev.com">
+<img src="https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://www.hackerrank.com/@2711nitinkumar">
+<img src="https://img.shields.io/badge/HackerRank-Coding_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/@2711nitinkumar">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer's Wisdom
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+---
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code."          ║
+║                                        - John Johnson        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+### ⭐ If my work adds value, consider starring the repositories!
+
+**Thanks for visiting! Feel free to reach out for collaborations or just a tech chat.** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
+
+</div>
+
+<!-- 
+════════════════════════════════════════════════════════════════
+  Profile designed with ❤️ by Nitin Kumar
+  Built for developers who appreciate clean, professional design
+════════════════════════════════════════════════════════════════
+-->
