@@ -154,7 +154,15 @@
 
 ### 🎖️ GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=nitin-2711&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=3&row=2" width="100%"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitin-2711&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Total_Contributions-1000+-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐_Total_Stars-50+-FFD93D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥_Streak_Days-Active-6BCF7F?style=for-the-badge" />
+</p>
 
 </td>
 <td align="center" width="50%" valign="top">
