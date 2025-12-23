@@ -155,7 +155,9 @@
 ### 🎖️ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitin-2711&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100" alt="Trophy"/>
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100" alt="Trophy"/>
+  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100" alt="Trophy"/>
 </p>
 
 <p align="center">
