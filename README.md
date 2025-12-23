@@ -25,7 +25,7 @@
 
 📧 **Email:** 2711nitinkumar@gmail.com  
 🌐 **Portfolio:** [nitinappdev.com](https://nitinappdev.com)  
-📄 **Resume:** [View Here](https://docs.google.com/document/d/1cBID635DdGZrdGLDPeD5Gqt9BqC2z2vk/edit?usp=drive_link&ouid=115725528369351112467&rtpof=true&sd=true)
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1_X-gUwwCOFnoxOdQRUoUUqjXXSNt1I8O/view?usp=sharing)
 
 <br clear="right"/>
 
