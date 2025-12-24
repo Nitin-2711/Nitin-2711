@@ -258,6 +258,13 @@
 
 ### 🎪 Stats Counter
 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="80" alt="Android"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80" alt="Spring Boot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="80" alt="Kotlin"/>
+</p>
+
 ![Guestbook Entries](https://img.shields.io/github/issues/nitin-2711/nitin-2711?label=Total%20Signatures&color=FF6B6B&style=for-the-badge&logo=github)
 ![Total Comments](https://img.shields.io/github/issues-closed/nitin-2711/nitin-2711?label=Archived%20Messages&color=6BCF7F&style=for-the-badge&logo=github)
 
